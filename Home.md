@@ -1,8 +1,31 @@
-Welcome to the LED-Cube wiki!
-![Cube info](E:\starkstatecollegeclubs\SoftwareDevelopment\20190219Cube)
+Welcome to the LED-Cube wiki [Cube info](E:\starkstatecollegeclubs\SoftwareDevelopment\20190219Cube)
 
-8x8x8 Cube Information
-Four key functions and 3 music Key functions
+8x8x8 LED Cube
+### There are Four key functions and Three music Key functions
+### Four key functions:
+* K1 key: Enter the mode selection, day, night mode control
+* K2 key: Enter the 3D8 PC mode (press the K1 key to be effective after power on)
+* K3 key: Enter 42 kinds of offline animation mode (press the K1 key to be effective after power on)
+* K4 key: Enter 14 kinds of off-line audio mode (press the K1 key to be effective after power on) 
+### Three music keys features: 
+* S1 key: Enter the music playback / stop control
+* S2 key: Enter the previous song / volume decrease control
+* S3 key: Enter the next song / volume increase control
+### Two ways to modify the pattern:
+* 1. Modify the program (difficult, you need to understand programming)
+* 2. PC computer software direct manipulation of the light cubic
+
+***
+### Resources:
+https://www.instructables.com/id/Led-Cube-8x8x8/
+http://forum.hobbycomponents.com/viewtopic.php?t=1744
+https://github.com/enjrolas/L3D-Hardware/blob/master/1x1x1%20cube/L3D_Necklace_Rev1%20BOM.txt
+
+* Pictures, Schematic, Code: https://github.com/VectStudio/LED_CUBE
+* Code:  https://github.com/pertbanking/led-cube
+* Development and Spatial design user program:  https://github.com/tomazas/ledcube8x8x8
+***
+
 # 8x8x8 Cube Parts Information
 1. PCB Board: 15x15 cm (The dimension is ~1.5 mm larger on one side)
 1. 	LEDs	Blue 512 	
@@ -91,26 +114,3 @@ Four key functions and 3 music Key functions
 * •	3. 5A high-current MOS tube driver chip (to solve the uneven brightness)
 * •	4. High-speed scanning chip and serial control cascade chip
 * •	5. Use professional MP3 music chip6. Use professional power amplifier chip 8002B
-***
-### Four key functions:
-* K1 key: Enter the mode selection, day, night mode control
-* K2 key: Enter the 3D8 PC mode (press the K1 key to be effective after power on)
-* K3 key: Enter 42 kinds of offline animation mode (press the K1 key to be effective after power on)
-* K4 key: Enter 14 kinds of off-line audio mode (press the K1 key to be effective after power on) 
-### Three music keys features: 
-* S1 key: Enter the music playback / stop control
-* S2 key: Enter the previous song / volume decrease control
-* S3 key: Enter the next song / volume increase control
-### Two ways to modify the pattern:
-* 1. Modify the program (difficult, you need to understand programming)
-* 2. PC computer software direct manipulation of the light cubic
-
-***
-### Resources:
-https://www.instructables.com/id/Led-Cube-8x8x8/
-http://forum.hobbycomponents.com/viewtopic.php?t=1744
-https://github.com/enjrolas/L3D-Hardware/blob/master/1x1x1%20cube/L3D_Necklace_Rev1%20BOM.txt
-
-* Pictures, Schematic, Code: https://github.com/VectStudio/LED_CUBE
-* Code:  https://github.com/pertbanking/led-cube
-* Development and Spatial design user program:  https://github.com/tomazas/ledcube8x8x8
