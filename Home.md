@@ -3,8 +3,7 @@ Welcome to the LED-Cube wiki!
 
 8x8x8 Cube Information
 Four key functions and 3 music Key functions
- Parts
-#	8x8x8 Cube Information
+# 8x8x8 Cube Parts Information
 1. PCB Board: 15x15 cm (The dimension is ~1.5 mm larger on one side)
 1. 	LEDs	Blue 512 	
 1. amplifier audio 3W speaker   
